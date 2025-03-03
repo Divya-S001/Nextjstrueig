@@ -49,7 +49,7 @@ Practice:
 Build a page that fetches and displays API data.
 Add revalidation logic for fresh data.
 
-6. Middleware and API Routes
+6. Middleware and API Routes [done......]
 Objective: Leverage middleware and build backend APIs in Next.js.
 Learn:
 How to use middleware.js for authentication or request handling.
